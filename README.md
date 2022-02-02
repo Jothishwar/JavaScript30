@@ -1,10 +1,10 @@
 <img src="https://camo.githubusercontent.com/07ca65497065dd926bd889c53b7b7652f8ef3cbc4320739cf7ebed3c4d34cb2d/68747470733a2f2f6a61766173637269707433302e636f6d2f696d616765732f4a53332d736f6369616c2d73686172652e706e67" alt="javascript30" />
 <h1># JavaScript30</h1>
-<h3>
+<p>
   30 Day Vanila JS coding challenge<br><br>
   Build 30 Things in 30 Days.
-</h3>
-<h4>NO FRAMEWORKS x NO COMPILERS x NO LIBRARIES x NO BOILERPLATE</h4>
+</p>
+<p>NO FRAMEWORKS x NO COMPILERS x NO LIBRARIES x NO BOILERPLATE</p>
 <h1># Who is this For?</h1>
 <p>
   Beginner to Intermediate developers and designers who want to become comfortable with both JavaScript fundamentals and working in the DOM without a library.
