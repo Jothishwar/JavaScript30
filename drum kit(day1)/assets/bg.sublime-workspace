@@ -1,0 +1,849 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"sp",
+				"space-around\tjustify-content"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"tranfor",
+				"transform\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"on",
+				"onclick\tAttr"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"i",
+				"iframe\tTag"
+			],
+			[
+				"pa",
+				"pass_len"
+			],
+			[
+				"gen",
+				"gen_symb"
+			],
+			[
+				"in",
+				"inline-grid\tdisplay"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"font-siz",
+				"font-size\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"ba",
+				"background-blend-mode\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"gene",
+				"Generator"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"siz",
+				"size\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"tex-al",
+				"text-align\tproperty"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"r",
+				"rangeslider"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"co",
+				"countDown"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"grid-t",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"grid-au",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"grid",
+				"grid-row\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"transform",
+				"text-transform\tproperty"
+			],
+			[
+				"transf",
+				"transform-style\tproperty"
+			],
+			[
+				"t",
+				"transition-property\tproperty"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"it",
+				"italic\tfont-style"
+			],
+			[
+				"wie",
+				"font-weight\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"gri",
+				"grid-row\tproperty"
+			],
+			[
+				"gr",
+				"grid-column\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"p",
+				"p-5"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"tetx",
+				"text-decoration\tproperty"
+			],
+			[
+				"tect",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"card",
+				"card-footer"
+			],
+			[
+				"te",
+				"list-style-type\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"eas",
+				"ease-out\ttransition-timing-function"
+			],
+			[
+				"transition",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"ani",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"animatio",
+				"animation-duration\tproperty"
+			],
+			[
+				"align-i",
+				"alignment-baseline\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"text-ali",
+				"text-align\tproperty"
+			],
+			[
+				"Comm",
+				"comments"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"Su",
+				"submit"
+			],
+			[
+				"dr",
+				"dropdown1"
+			],
+			[
+				"im",
+				"improvement"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"lo",
+				"localstorage"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"U",
+				"url()\tbackground"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"ch",
+				"changedept"
+			],
+			[
+				"imge",
+				"images"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"inline-",
+				"inline-table\tdisplay"
+			],
+			[
+				"fi",
+				"filter\tproperty"
+			],
+			[
+				"P",
+				"Philiphines"
+			],
+			[
+				"J",
+				"Japan"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"us",
+				"userdata"
+			],
+			[
+				"user",
+				"userdata"
+			],
+			[
+				"B",
+				"BUTTON\tTag"
+			],
+			[
+				"con",
+				"consol"
+			],
+			[
+				"a",
+				"adduser"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"L",
+				"logged"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"ph",
+				"ph_no"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"vpi",
+				"View Package File"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Git: Init"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package control do",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"apt upgrade",
+			"update",
+			"pkg update"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/My projects/js30/drum kit(day1)/index.html",
+		"/D/My projects/js30/drum kit(day1)/style.css",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/Go.sublime-package",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Installed Packages/Git.sublime-package",
+		"/C/Users/Lenovo/Desktop/test/index.html",
+		"/C/Users/Lenovo/Desktop/pwd generator/index.html",
+		"/C/Users/Lenovo/Desktop/pwd generator/style.css",
+		"/C/Users/Lenovo/Desktop/pwd generator/pass_gen.js",
+		"/C/Users/Lenovo/Desktop/onnu illa.html",
+		"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/html.sublime-snippet",
+		"/C/Users/Lenovo/Desktop/scroll-check/index.html",
+		"/C/Users/Lenovo/Desktop/scroll-check/style.css",
+		"/C/Users/Lenovo/Desktop/100daysofprojects/day1-5/index.html",
+		"/C/Users/Lenovo/Desktop/100daysofprojects/day1-5/assets/style.css",
+		"/C/Users/Lenovo/Desktop/100daysofprojects/day1-5/assets/script.js",
+		"/C/Users/Lenovo/Desktop/100daysofprojects/day1-5/style_guide.html",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/personal portfolio/style.css",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/personal portfolio/index.html",
+		"/C/Users/Lenovo/Desktop/airbnb/index.html",
+		"/D/snippet.html",
+		"/C/Users/Lenovo/AppData/Roaming/Sublime Text 3/Packages/User/new snippet.sublime-snippet",
+		"/C/Users/Lenovo/Desktop/airbnb/style.css",
+		"/C/Users/Lenovo/Desktop/html&css club proj/index.html",
+		"/C/Users/Lenovo/Desktop/html&css club proj/style.css",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/technical documentation/style.css",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/technical documentation/index.html",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/landing page/index.html",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/landing page/style.css",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/landing page/style",
+		"/C/Users/Lenovo/Desktop/simple parallax/style.css",
+		"/C/Users/Lenovo/Desktop/simple parallax/index.html",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/Survey form/index.html",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/Survey form/style.css",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/tribute page/index.html",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/New folder/index.html",
+		"/C/Users/Lenovo/Desktop/Responsive web dev/tribute page/style.css",
+		"/C/Users/Lenovo/Desktop/check.html",
+		"/C/Users/Lenovo/Desktop/Kishore Proj/css/style.css",
+		"/C/Users/Lenovo/Desktop/Kishore Proj/index.html",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/css/abt_style.css",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/about us.html",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/upload-style.css",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/js/upload script.js",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/imgupload.html",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/js/signup script.js",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/css/signup style.css",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/Sign-up page.html",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/js/login script.js",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/css/login style.css",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/login page.html",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/css/style.css",
+		"/C/Users/Lenovo/Desktop/snaps-2nd edit/index.html",
+		"/C/Users/Lenovo/Desktop/image gallery/js/signup script.js",
+		"/C/Users/Lenovo/Desktop/image gallery/css/signup style.css",
+		"/C/Users/Lenovo/Desktop/image gallery/Sign-up page.html",
+		"/C/Users/Lenovo/Desktop/image gallery/js/login script.js",
+		"/C/Users/Lenovo/Desktop/image gallery/css/login style.css",
+		"/C/Users/Lenovo/Desktop/image gallery/login page.html",
+		"/C/Users/Lenovo/Desktop/image gallery/css/lightbox.min.css",
+		"/C/Users/Lenovo/Desktop/image gallery/css/style.css",
+		"/C/Users/Lenovo/Desktop/image gallery/index.html",
+		"/C/Users/Lenovo/Desktop/image gallery/icon.css",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/2-07-2021/javascript objects.html",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/2-07-2021/script.js",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/25-06-2021/New Text Document.html",
+		"/C/Users/Lenovo/Desktop/image gallery/img gallery/js/lightbox-plus-jquery.min.js",
+		"/C/Users/Lenovo/Desktop/image gallery/img gallery/css/lightbox.min.css",
+		"/C/Users/Lenovo/Desktop/image gallery/img gallery/css/style.css",
+		"/D/sublime/proj/signup script.js",
+		"/D/sublime/proj/signup style.css",
+		"/D/sublime/proj/Sign-up page.html",
+		"/D/sublime/proj/login script.js",
+		"/D/sublime/proj/login style.css",
+		"/D/sublime/proj/login page.html",
+		"/C/Users/Lenovo/Desktop/image gallery/img gallery/index.html",
+		"/C/Users/Lenovo/Desktop/image gallery/Responsive Navbar/style.css",
+		"/C/Users/Lenovo/Desktop/image gallery/Responsive Navbar/index.html",
+		"/C/Users/Lenovo/Desktop/New folder/index3.html",
+		"/C/Users/Lenovo/Desktop/New folder/style3.css",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/25-06-2021/script.js",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/18-06-2021/dhf.html",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/18-06-2021/script",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/30-04-2021/star pattern.html",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/23-04-2021/array.html",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/test-1/4.html",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/test-1/5.html",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/test-1/3.html",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/test-1/1.html",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/test-1/2.html",
+		"/C/Users/Lenovo/Desktop/bday/index.html",
+		"/C/Users/Lenovo/Desktop/bday/style.css",
+		"/C/Users/Lenovo/Desktop/Java script(2nd SEM)/28-05-2021/arrays.html",
+		"/D/sublime/contact-style.css",
+		"/D/sublime/contact-form.html",
+		"/D/sublime/contact-style.html",
+		"/C/Users/Lenovo/Desktop/contact/contact form.html",
+		"/C/Users/Lenovo/Desktop/contact/contact style.css",
+		"/C/Users/Lenovo/Desktop/contact style.css",
+		"/C/Users/Lenovo/Desktop/contact form.html",
+		"/D/sublime/check.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bg.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"he",
+				"C:\\Users\\Lenovo\\Desktop\\Responsive web dev\\technical documentation\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
