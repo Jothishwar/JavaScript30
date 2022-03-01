@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Event Capture,propogation,bubbling,once</title>
+	<style type="text/css">
+		html {
+		    box-sizing: border-box;
+		}
+		  
+		*, *:before, *:after { 
+		    box-sizing: inherit; 
+		}
+
+	  	div {
+		    width: 100%;
+		    padding: 100px;
+		}
+
+		.one {
+		    background: thistle;
+		}
+
+		.two {
+			background: mistyrose;
+		}
+
+		.three {
+		    background: coral;
+		}
+	</style>
+</head>
+<body>
+
+	<div class="one">
+    <div class="two">
+      <div class="three">
+      </div>
+    </div>
+  </div>
+
+  <button></button>
+
+  <script type="text/javascript" src="script.js"></script>
+
+</body>
+</html>
